@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/W0LFB0MB/wav-info/issues"
   },
-  "homepage": "https://github.com/W0LFB0MB/wav-info"
+  "homepage": "https://github.com/W0LFB0MB/wav-info",
+  "dependencies": {
+    "wav-info": "^0.0.1"
+  }
 }
